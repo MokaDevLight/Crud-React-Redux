@@ -5,13 +5,13 @@ Build a React Redux CRUD Application to consume Web API using Axios, display and
 
 ## React Redux Tutorial Application in that:
 
--Each Tutorial has id, title, description.
--We can create, update, delete Tutorials.
+- Each Tutorial has id, title, description.
+- We can create, update, delete Tutorials.
 
 ## Project setup
 
-In the project directory, you can run:
-npm install or yarn install
+- In the project directory, you can run:
+- npm install or yarn install
 
 ## Compiles and hot-reloads for development
 
